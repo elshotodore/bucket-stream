@@ -3,3 +3,4 @@ __pycache__
 buckets.log
 .virtualenv
 .DS_Store
+config.yaml
