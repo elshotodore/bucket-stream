@@ -37,9 +37,13 @@
 805stats.s3.amazonaws.com
 9weeks.s3.amazonaws.com
 a0000000000001.s3.amazonaws.com
+a21.s3.amazonaws.com
+a21-test.s3.amazonaws.com
 aace.s3.amazonaws.com
 abby.s3.amazonaws.com
 abfl-dev.s3.amazonaws.com
+abhishek-dev.s3.amazonaws.com
+abhishek-test.s3.amazonaws.com
 abh-test.s3.amazonaws.com
 abit-test.s3.amazonaws.com
 ablink.s3.amazonaws.com
@@ -91,6 +95,7 @@ aether-dev.s3.amazonaws.com
 affiliatemarketingclub.s3.amazonaws.com
 afod.s3.amazonaws.com
 aftec.s3.amazonaws.com
+afteraction.s3.amazonaws.com
 agbc.s3.amazonaws.com
 agechecker.s3.amazonaws.com
 ageless.s3.amazonaws.com
@@ -152,6 +157,7 @@ altair-backup.s3.amazonaws.com
 alt-dev.s3.amazonaws.com
 altech-prod.s3.amazonaws.com
 altm.s3.amazonaws.com
+altyazi.s3.amazonaws.com
 aluralingua.s3.amazonaws.com
 alxd.s3.amazonaws.com
 amao-dev.s3.amazonaws.com
@@ -275,6 +281,7 @@ avanse.s3.amazonaws.com
 avanti.s3.amazonaws.com
 avar-test.s3.amazonaws.com
 avenida-dev.s3.amazonaws.com
+aventura.s3.amazonaws.com
 ave-test.s3.amazonaws.com
 avid.s3.amazonaws.com
 avista.s3.amazonaws.com
@@ -305,6 +312,7 @@ azul-dev.s3.amazonaws.com
 azure-staging.s3.amazonaws.com
 azweb.s3.amazonaws.com
 b2bonline.s3.amazonaws.com
+b2m.s3.amazonaws.com
 babf.s3.amazonaws.com
 baboushka.s3.amazonaws.com
 babygames.s3.amazonaws.com
@@ -319,8 +327,10 @@ backup-abs.s3.amazonaws.com
 backup-ali.s3.amazonaws.com
 backup-apk.s3.amazonaws.com
 backup-as3.s3.amazonaws.com
+backup-ayman.s3.amazonaws.com
 backup-bdd.s3.amazonaws.com
 backup-content.s3.amazonaws.com
+backup-creator.s3.amazonaws.com
 backup-docker.s3.amazonaws.com
 backup-dti.s3.amazonaws.com
 backup-fitfox.s3.amazonaws.com
@@ -343,6 +353,8 @@ badgr.s3.amazonaws.com
 baeta.s3.amazonaws.com
 baja.s3.amazonaws.com
 balanceit.s3.amazonaws.com
+balloon-staging.s3.amazonaws.com
+balloon-test.s3.amazonaws.com
 ballyhoo-dev.s3.amazonaws.com
 banderol.s3.amazonaws.com
 banker.s3.amazonaws.com
@@ -390,6 +402,7 @@ bel.s3.amazonaws.com
 benchmarque.s3.amazonaws.com
 bensonsung.s3.amazonaws.com
 bepic.s3.amazonaws.com
+bespoke.s3.amazonaws.com
 bestbike-dev.s3.amazonaws.com
 bestbike.s3.amazonaws.com
 bestshop.s3.amazonaws.com
@@ -423,6 +436,7 @@ bim.s3.amazonaws.com
 bingabinga.s3.amazonaws.com
 binus.s3.amazonaws.com
 bioinformatics.s3.amazonaws.com
+bioprint.s3.amazonaws.com
 biosham.s3.amazonaws.com
 bioweb-test.s3.amazonaws.com
 bioworld.s3.amazonaws.com
@@ -494,6 +508,8 @@ bootstrap.s3.amazonaws.com
 bori.s3.amazonaws.com
 bose-backup.s3.amazonaws.com
 botsoft.s3.amazonaws.com
+bounties-dev.s3.amazonaws.com
+bounties.s3.amazonaws.com
 boutiquedanceacademy.s3.amazonaws.com
 boxbee-dev.s3.amazonaws.com
 boxi-dev.s3.amazonaws.com
@@ -552,6 +568,7 @@ businesstoday.s3.amazonaws.com
 busse.s3.amazonaws.com
 butik.s3.amazonaws.com
 butlr.s3.amazonaws.com
+buttercream.s3.amazonaws.com
 button.s3.amazonaws.com
 button-test.s3.amazonaws.com
 buyback-staging.s3.amazonaws.com
@@ -576,6 +593,9 @@ canadianvisa.s3.amazonaws.com
 cancer-dev.s3.amazonaws.com
 cannes-staging.s3.amazonaws.com
 cantrell.s3.amazonaws.com
+canvas-backup.s3.amazonaws.com
+canvas-staging.s3.amazonaws.com
+capacitybuilders.s3.amazonaws.com
 capebook-dev.s3.amazonaws.com
 ca-prod.s3.amazonaws.com
 caras-backup.s3.amazonaws.com
@@ -675,6 +695,7 @@ chop-test.s3.amazonaws.com
 chorus-dev.s3.amazonaws.com
 chps.s3.amazonaws.com
 chrissie-backup.s3.amazonaws.com
+chromacolour.s3.amazonaws.com
 churchill-prod.s3.amazonaws.com
 chye.s3.amazonaws.com
 cieletterre.s3.amazonaws.com
@@ -750,6 +771,7 @@ comeo.s3.amazonaws.com
 cometchat.s3.amazonaws.com
 comet-test.s3.amazonaws.com
 commerce-test.s3.amazonaws.com
+commissary.s3.amazonaws.com
 companion.s3.amazonaws.com
 companion-staging.s3.amazonaws.com
 compass-prod.s3.amazonaws.com
@@ -788,6 +810,7 @@ coverme.s3.amazonaws.com
 covisint.s3.amazonaws.com
 cpag.s3.amazonaws.com
 cpd-dev.s3.amazonaws.com
+cpmn.s3.amazonaws.com
 cpta.s3.amazonaws.com
 crackle-prod.s3.amazonaws.com
 craftsy.s3.amazonaws.com
@@ -893,6 +916,7 @@ dcmembers.s3.amazonaws.com
 dcn-test.s3.amazonaws.com
 dcp-dev.s3.amazonaws.com
 dcp.s3.amazonaws.com
+dcr.s3.amazonaws.com
 dda.s3.amazonaws.com
 dealersocket-test.s3.amazonaws.com
 dealhunter-staging.s3.amazonaws.com
@@ -997,6 +1021,7 @@ dev-urban.s3.amazonaws.com
 dev-videos.s3.amazonaws.com
 devv.s3.amazonaws.com
 dev-web.s3.amazonaws.com
+dev-win.s3.amazonaws.com
 dew.s3.amazonaws.com
 dexa.s3.amazonaws.com
 dexmedia.s3.amazonaws.com
@@ -1051,6 +1076,7 @@ docker.s3.amazonaws.com
 docload.s3.amazonaws.com
 docnet.s3.amazonaws.com
 docrepository.s3.amazonaws.com
+dodentocht.s3.amazonaws.com
 do-design.s3.amazonaws.com
 dodis.s3.amazonaws.com
 doe.s3.amazonaws.com
@@ -1063,6 +1089,8 @@ door-dev.s3.amazonaws.com
 dormsoft.s3.amazonaws.com
 dos-test.s3.amazonaws.com
 dotco.s3.amazonaws.com
+doublehappy.s3.amazonaws.com
+doublehorn.s3.amazonaws.com
 downloadapk.s3.amazonaws.com
 download.s3.amazonaws.com
 downtownmissionchurch.s3.amazonaws.com
@@ -1080,6 +1108,7 @@ dronapro.s3.amazonaws.com
 drone-prod.s3.amazonaws.com
 dron.s3.amazonaws.com
 drori.s3.amazonaws.com
+drugs-test.s3.amazonaws.com
 drum.s3.amazonaws.com
 drx.s3.amazonaws.com
 dscloud-staging.s3.amazonaws.com
@@ -1102,6 +1131,7 @@ dwell-staging.s3.amazonaws.com
 dya-staging.s3.amazonaws.com
 dya-test.s3.amazonaws.com
 dyc-test.s3.amazonaws.com
+dyerfirstumc.s3.amazonaws.com
 dyg.s3.amazonaws.com
 dynabic.s3.amazonaws.com
 dyna-dev.s3.amazonaws.com
@@ -1196,6 +1226,7 @@ encounter-prod.s3.amazonaws.com
 encrypto.s3.amazonaws.com
 energyfusion.s3.amazonaws.com
 englishteacher.s3.amazonaws.com
+enkidoo.s3.amazonaws.com
 enkrayarble.s3.amazonaws.com
 enterprisecloud.s3.amazonaws.com
 enthuse.s3.amazonaws.com
@@ -1381,6 +1412,7 @@ foghorn.s3.amazonaws.com
 foi-prod.s3.amazonaws.com
 foi.s3.amazonaws.com
 folio-app.s3.amazonaws.com
+fomo-test.s3.amazonaws.com
 fonics.s3.amazonaws.com
 font.s3.amazonaws.com
 foodfromfriends.s3.amazonaws.com
@@ -1486,6 +1518,7 @@ gdev.s3.amazonaws.com
 gdsweb.s3.amazonaws.com
 gearbubble-dev.s3.amazonaws.com
 gearbubble-staging.s3.amazonaws.com
+geekinside.s3.amazonaws.com
 geex.s3.amazonaws.com
 gella.s3.amazonaws.com
 gemini-test.s3.amazonaws.com
@@ -1516,6 +1549,7 @@ giganet.s3.amazonaws.com
 gingerly.s3.amazonaws.com
 ging.s3.amazonaws.com
 gira.s3.amazonaws.com
+giris.s3.amazonaws.com
 gist-dev.s3.amazonaws.com
 gitti.s3.amazonaws.com
 givingtuesday.s3.amazonaws.com
@@ -1540,6 +1574,8 @@ godelivery.s3.amazonaws.com
 goe-www.s3.amazonaws.com
 gofer.s3.amazonaws.com
 gogirl.s3.amazonaws.com
+gog-prod.s3.amazonaws.com
+gog-test.s3.amazonaws.com
 gohealthy.s3.amazonaws.com
 gokce-test.s3.amazonaws.com
 goldwing.s3.amazonaws.com
@@ -1577,6 +1613,7 @@ green-store-test.s3.amazonaws.com
 gregory.s3.amazonaws.com
 grelectric.s3.amazonaws.com
 grid.s3.amazonaws.com
+gri.s3.amazonaws.com
 grita.s3.amazonaws.com
 groomify.s3.amazonaws.com
 groupstudy-dev.s3.amazonaws.com
@@ -1640,6 +1677,7 @@ heart-staging.s3.amazonaws.com
 heartstories.s3.amazonaws.com
 hearttoheart.s3.amazonaws.com
 hecho.s3.amazonaws.com
+helis.s3.amazonaws.com
 hellhound.s3.amazonaws.com
 hellomusic.s3.amazonaws.com
 helpline.s3.amazonaws.com
@@ -1655,6 +1693,7 @@ hextor.s3.amazonaws.com
 hgpmedia.s3.amazonaws.com
 hibachiya.s3.amazonaws.com
 hidden.s3.amazonaws.com
+hideout-prod.s3.amazonaws.com
 highride.s3.amazonaws.com
 hinda.s3.amazonaws.com
 hinsdale.s3.amazonaws.com
@@ -1753,6 +1792,7 @@ ijf-staging.s3.amazonaws.com
 iken.s3.amazonaws.com
 ilabs.s3.amazonaws.com
 ilab-test.s3.amazonaws.com
+ilearn.s3.amazonaws.com
 ilha.s3.amazonaws.com
 ilh.s3.amazonaws.com
 iloveny.s3.amazonaws.com
@@ -1779,6 +1819,7 @@ incheon.s3.amazonaws.com
 inchid.s3.amazonaws.com
 incidents.s3.amazonaws.com
 incognito-test.s3.amazonaws.com
+income-dev.s3.amazonaws.com
 incube-backup.s3.amazonaws.com
 indago.s3.amazonaws.com
 indecks.s3.amazonaws.com
@@ -1813,6 +1854,7 @@ inspired-dev.s3.amazonaws.com
 insp.s3.amazonaws.com
 install-test.s3.amazonaws.com
 instrument-dev.s3.amazonaws.com
+inteli-prod.s3.amazonaws.com
 intelligence-dev.s3.amazonaws.com
 interactive-dev.s3.amazonaws.com
 interactives.s3.amazonaws.com
@@ -1842,12 +1884,14 @@ ion-prod.s3.amazonaws.com
 iosapps-dev.s3.amazonaws.com
 io-test.s3.amazonaws.com
 ipaper.s3.amazonaws.com
+iphone.s3.amazonaws.com
 ipitest.s3.amazonaws.com
 iplocation.s3.amazonaws.com
 ipreo.s3.amazonaws.com
 ips-test.s3.amazonaws.com
 irenechen.s3.amazonaws.com
 irun.s3.amazonaws.com
+islandchristian.s3.amazonaws.com
 islandretreat.s3.amazonaws.com
 isl.s3.amazonaws.com
 isma.s3.amazonaws.com
@@ -1952,6 +1996,8 @@ kara-staging.s3.amazonaws.com
 kargo.s3.amazonaws.com
 karl-test.s3.amazonaws.com
 karma-dev.s3.amazonaws.com
+kat-ha.s3.amazonaws.com
+kathleengauton.s3.amazonaws.com
 kaymu.s3.amazonaws.com
 kbc.s3.amazonaws.com
 kcc.s3.amazonaws.com
@@ -2005,6 +2051,7 @@ kml-dev.s3.amazonaws.com
 kml.s3.amazonaws.com
 kmu.s3.amazonaws.com
 knee.s3.amazonaws.com
+knhb-test.s3.amazonaws.com
 knjige.s3.amazonaws.com
 kodak.s3.amazonaws.com
 koding.s3.amazonaws.com
@@ -2020,11 +2067,13 @@ konnect-staging.s3.amazonaws.com
 korea-test.s3.amazonaws.com
 kos.s3.amazonaws.com
 koval.s3.amazonaws.com
+krdev.s3.amazonaws.com
 krill.s3.amazonaws.com
 krisnelson.s3.amazonaws.com
 krmarketingsuite.s3.amazonaws.com
 kronoz-test.s3.amazonaws.com
 ktc.s3.amazonaws.com
+ktravel.s3.amazonaws.com
 kubrick.s3.amazonaws.com
 kubu.s3.amazonaws.com
 kudoz.s3.amazonaws.com
@@ -2099,6 +2148,7 @@ libertysite.s3.amazonaws.com
 lidar-test.s3.amazonaws.com
 li-dev.s3.amazonaws.com
 lifecycle.s3.amazonaws.com
+lifeimpact.s3.amazonaws.com
 lifeline.s3.amazonaws.com
 lifequest-dev.s3.amazonaws.com
 lifequest.s3.amazonaws.com
@@ -2115,11 +2165,13 @@ linkat.s3.amazonaws.com
 linktub.s3.amazonaws.com
 lin.s3.amazonaws.com
 lionheart-backup.s3.amazonaws.com
+liquid-test.s3.amazonaws.com
 listener-dev.s3.amazonaws.com
 listener.s3.amazonaws.com
 listicle.s3.amazonaws.com
 lithiumprod.s3.amazonaws.com
 littlebigshop.s3.amazonaws.com
+littleplanet.s3.amazonaws.com
 liu-test.s3.amazonaws.com
 live365.s3.amazonaws.com
 livechat-test.s3.amazonaws.com
@@ -2159,11 +2211,13 @@ lovebeauty.s3.amazonaws.com
 lovegreen-dev.s3.amazonaws.com
 lovo.s3.amazonaws.com
 lpm-dev.s3.amazonaws.com
+lp-prod.s3.amazonaws.com
 lqm.s3.amazonaws.com
 lrn.s3.amazonaws.com
 lse-test.s3.amazonaws.com
 lse-uat.s3.amazonaws.com
 lsm.s3.amazonaws.com
+lsvt-test.s3.amazonaws.com
 ltai.s3.amazonaws.com
 lte.s3.amazonaws.com
 ltz.s3.amazonaws.com
@@ -2345,6 +2399,7 @@ mmm-prod.s3.amazonaws.com
 mmm.s3.amazonaws.com
 mmweb.s3.amazonaws.com
 mnbsd.s3.amazonaws.com
+mnemonic-test.s3.amazonaws.com
 moa.s3.amazonaws.com
 mobile-test.s3.amazonaws.com
 mobilize.s3.amazonaws.com
@@ -2365,6 +2420,7 @@ monolithic.s3.amazonaws.com
 monologue.s3.amazonaws.com
 monopoly.s3.amazonaws.com
 monotreme.s3.amazonaws.com
+monster-dev.s3.amazonaws.com
 montessori-staging.s3.amazonaws.com
 moodle-test.s3.amazonaws.com
 moontide.s3.amazonaws.com
@@ -2398,6 +2454,7 @@ muse-prod.s3.amazonaws.com
 music12.s3.amazonaws.com
 musicapp.s3.amazonaws.com
 musicas.s3.amazonaws.com
+music-blog.s3.amazonaws.com
 musiclimited.s3.amazonaws.com
 musiclovers.s3.amazonaws.com
 mutlu.s3.amazonaws.com
@@ -2476,6 +2533,7 @@ newday.s3.amazonaws.com
 neweb-backup.s3.amazonaws.com
 newriver.s3.amazonaws.com
 newsfun.s3.amazonaws.com
+news-letter-test.s3.amazonaws.com
 newslive.s3.amazonaws.com
 newswatch.s3.amazonaws.com
 nexcom.s3.amazonaws.com
@@ -2508,6 +2566,7 @@ nodos.s3.amazonaws.com
 noho.s3.amazonaws.com
 norcal.s3.amazonaws.com
 nordiclodgeradio.s3.amazonaws.com
+norm-test.s3.amazonaws.com
 nosh.s3.amazonaws.com
 nos.s3.amazonaws.com
 notex.s3.amazonaws.com
@@ -2778,6 +2837,8 @@ point-prod.s3.amazonaws.com
 poi.s3.amazonaws.com
 poiuy.s3.amazonaws.com
 pokemongo-test.s3.amazonaws.com
+polaris-dev.s3.amazonaws.com
+polaris-prod.s3.amazonaws.com
 polder-dev.s3.amazonaws.com
 polyares.s3.amazonaws.com
 poly-staging.s3.amazonaws.com
@@ -2972,6 +3033,7 @@ rapidvideo.s3.amazonaws.com
 raptor-staging.s3.amazonaws.com
 raptor-test.s3.amazonaws.com
 ras-prod.s3.amazonaws.com
+ratecity.s3.amazonaws.com
 rattle-dev.s3.amazonaws.com
 rausgegangen.s3.amazonaws.com
 ravereview.s3.amazonaws.com
@@ -3014,6 +3076,7 @@ reganhillyer.s3.amazonaws.com
 regexp.s3.amazonaws.com
 region10-prod.s3.amazonaws.com
 rehab2.s3.amazonaws.com
+reima.s3.amazonaws.com
 reitmethod.s3.amazonaws.com
 rejuvenation-staging.s3.amazonaws.com
 rekindle-staging.s3.amazonaws.com
@@ -3082,6 +3145,7 @@ rmx.s3.amazonaws.com
 rndl.s3.amazonaws.com
 roadhouse.s3.amazonaws.com
 roadrace.s3.amazonaws.com
+roadtoftt.s3.amazonaws.com
 roboshop.s3.amazonaws.com
 robot-test.s3.amazonaws.com
 robust.s3.amazonaws.com
@@ -3136,6 +3200,7 @@ safeonline.s3.amazonaws.com
 sagent.s3.amazonaws.com
 sagra.s3.amazonaws.com
 sahar.s3.amazonaws.com
+sailing.s3.amazonaws.com
 sajan.s3.amazonaws.com
 sakar.s3.amazonaws.com
 salesforce-dev.s3.amazonaws.com
@@ -3250,6 +3315,7 @@ shutter.s3.amazonaws.com
 sidekick.s3.amazonaws.com
 siemens.s3.amazonaws.com
 signal.s3.amazonaws.com
+signaturedjs.s3.amazonaws.com
 signshop.s3.amazonaws.com
 sig.s3.amazonaws.com
 simedia.s3.amazonaws.com
@@ -3362,6 +3428,7 @@ speedhunters-dev.s3.amazonaws.com
 speednik.s3.amazonaws.com
 spe.s3.amazonaws.com
 spe-test.s3.amazonaws.com
+spiderweb.s3.amazonaws.com
 spindle-staging.s3.amazonaws.com
 spingo.s3.amazonaws.com
 spirit.s3.amazonaws.com
@@ -3370,8 +3437,10 @@ splatoralcare.s3.amazonaws.com
 spoken.s3.amazonaws.com
 spontaneapp.s3.amazonaws.com
 sportsnewsla.s3.amazonaws.com
+sportsquare.s3.amazonaws.com
 spose.s3.amazonaws.com
 spotmedia.s3.amazonaws.com
+spotter-online.s3.amazonaws.com
 spredfast.s3.amazonaws.com
 sprout-test.s3.amazonaws.com
 sp-staging.s3.amazonaws.com
@@ -3395,6 +3464,7 @@ staging-cdn.s3.amazonaws.com
 staging-cd.s3.amazonaws.com
 staging-chatter.s3.amazonaws.com
 staging-cloudfront.s3.amazonaws.com
+staging-cluster.s3.amazonaws.com
 staging-dashboard.s3.amazonaws.com
 staging-download.s3.amazonaws.com
 staging-elements.s3.amazonaws.com
@@ -3464,6 +3534,7 @@ super-duper-test.s3.amazonaws.com
 supermariobros.s3.amazonaws.com
 superme.s3.amazonaws.com
 supersixty.s3.amazonaws.com
+supersoju.s3.amazonaws.com
 supervideos.s3.amazonaws.com
 supplychain.s3.amazonaws.com
 support1.s3.amazonaws.com
@@ -3540,6 +3611,7 @@ techstop.s3.amazonaws.com
 techvibes.s3.amazonaws.com
 techvideo.s3.amazonaws.com
 ted-test.s3.amazonaws.com
+tedxabbotsford.s3.amazonaws.com
 tedxcharoenkrung.s3.amazonaws.com
 teejoy.s3.amazonaws.com
 teenvoice.s3.amazonaws.com
@@ -3623,6 +3695,7 @@ test-harsh.s3.amazonaws.com
 test-hls.s3.amazonaws.com
 test-html5.s3.amazonaws.com
 test-idfa.s3.amazonaws.com
+test-iglu.s3.amazonaws.com
 test-ima.s3.amazonaws.com
 test-in.s3.amazonaws.com
 test-insights.s3.amazonaws.com
@@ -3694,6 +3767,7 @@ test-vin.s3.amazonaws.com
 test-viv.s3.amazonaws.com
 test-vls.s3.amazonaws.com
 test-webdev.s3.amazonaws.com
+test-win.s3.amazonaws.com
 test-wolga.s3.amazonaws.com
 testworld.s3.amazonaws.com
 test-wren.s3.amazonaws.com
@@ -3710,6 +3784,7 @@ tfg-backup.s3.amazonaws.com
 tfn-prod.s3.amazonaws.com
 tform-dev.s3.amazonaws.com
 thats.s3.amazonaws.com
+theatro-test.s3.amazonaws.com
 theautomati.s3.amazonaws.com
 thebigpicture-backup.s3.amazonaws.com
 theboathouse.s3.amazonaws.com
@@ -3784,6 +3859,7 @@ tours-prod.s3.amazonaws.com
 toxic.s3.amazonaws.com
 toyota-dev.s3.amazonaws.com
 toyota.s3.amazonaws.com
+toysrus.s3.amazonaws.com
 tpb.s3.amazonaws.com
 tporter-test.s3.amazonaws.com
 tracklink.s3.amazonaws.com
@@ -3795,6 +3871,7 @@ tradeyourtrip.s3.amazonaws.com
 tradition.s3.amazonaws.com
 traf.s3.amazonaws.com
 trailfinder.s3.amazonaws.com
+trakausa.s3.amazonaws.com
 transborder.s3.amazonaws.com
 transcore.s3.amazonaws.com
 transferts.s3.amazonaws.com
@@ -3828,6 +3905,7 @@ trizzy.s3.amazonaws.com
 trn.s3.amazonaws.com
 troll.s3.amazonaws.com
 troops.s3.amazonaws.com
+troo.s3.amazonaws.com
 tr-test.s3.amazonaws.com
 trunorth-dev.s3.amazonaws.com
 tru.s3.amazonaws.com
@@ -3945,6 +4023,7 @@ vanz.s3.amazonaws.com
 varian.s3.amazonaws.com
 vaultbank.s3.amazonaws.com
 vbank-test.s3.amazonaws.com
+vcify.s3.amazonaws.com
 vel-dev.s3.amazonaws.com
 velo.s3.amazonaws.com
 velosport.s3.amazonaws.com
@@ -4113,6 +4192,7 @@ wing-dev.s3.amazonaws.com
 wings-dev.s3.amazonaws.com
 wings-prod.s3.amazonaws.com
 wings-uat.s3.amazonaws.com
+wingu-dev.s3.amazonaws.com
 winners.s3.amazonaws.com
 winplus.s3.amazonaws.com
 wins.s3.amazonaws.com
@@ -4138,6 +4218,7 @@ wolfpack.s3.amazonaws.com
 wolf.s3.amazonaws.com
 wombat.s3.amazonaws.com
 wonderpod.s3.amazonaws.com
+woodworks.s3.amazonaws.com
 woofstore.s3.amazonaws.com
 wordpress-www.s3.amazonaws.com
 workfast-dev.s3.amazonaws.com
@@ -4259,4 +4340,5 @@ ztorie.s3.amazonaws.com
 zukee.s3.amazonaws.com
 zuzanachroma.s3.amazonaws.com
 zveri.s3.amazonaws.com
+zxy-test.s3.amazonaws.com
 zyd-test.s3.amazonaws.com
