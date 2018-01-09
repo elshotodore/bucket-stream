@@ -1446,6 +1446,7 @@ emak-staging.s3.amazonaws.com
 emanuel-test.s3.amazonaws.com
 emc-test.s3.amazonaws.com
 emiliano-dev.s3.amazonaws.com
+emilia.s3.amazonaws.com
 emirates.s3.amazonaws.com
 emmai.s3.amazonaws.com
 emmas.s3.amazonaws.com
@@ -2212,6 +2213,7 @@ ineed-staging.s3.amazonaws.com
 inertia.s3.amazonaws.com
 inetcloud.s3.amazonaws.com
 infection.s3.amazonaws.com
+infiniteach.s3.amazonaws.com
 infinitea.s3.amazonaws.com
 influencity.s3.amazonaws.com
 influ.s3.amazonaws.com
@@ -2447,6 +2449,7 @@ kidsbook.s3.amazonaws.com
 kidsbooks.s3.amazonaws.com
 kidsland.s3.amazonaws.com
 kidslibrary.s3.amazonaws.com
+kidsplace.s3.amazonaws.com
 kids-prod.s3.amazonaws.com
 kiehls.s3.amazonaws.com
 kilotons.s3.amazonaws.com
@@ -4004,6 +4007,7 @@ signaturedjs.s3.amazonaws.com
 signbox.s3.amazonaws.com
 signshop.s3.amazonaws.com
 sig.s3.amazonaws.com
+siimon.s3.amazonaws.com
 simedia.s3.amazonaws.com
 simian-staging.s3.amazonaws.com
 simplehealth-prod.s3.amazonaws.com
@@ -4148,6 +4152,7 @@ splatoralcare.s3.amazonaws.com
 spoken.s3.amazonaws.com
 spontaneapp.s3.amazonaws.com
 sportbuddy-test.s3.amazonaws.com
+sportimity.s3.amazonaws.com
 sportsnewsla.s3.amazonaws.com
 sportspartner.s3.amazonaws.com
 sportsquare.s3.amazonaws.com
@@ -4648,6 +4653,7 @@ totalgp.s3.amazonaws.com
 toto-dev.s3.amazonaws.com
 totoindonesia.s3.amazonaws.com
 tours-prod.s3.amazonaws.com
+towin-staging.s3.amazonaws.com
 toxic.s3.amazonaws.com
 toyota-dev.s3.amazonaws.com
 toyota.s3.amazonaws.com
