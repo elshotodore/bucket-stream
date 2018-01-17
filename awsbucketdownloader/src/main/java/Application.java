@@ -1,41 +1,48 @@
 import com.amazonaws.services.s3.AmazonS3;
-import com.amazonaws.services.s3.AmazonS3ClientBuilder;
-import com.amazonaws.services.s3.model.ObjectListing;
-import com.amazonaws.services.s3.model.S3ObjectSummary;
+import org.apache.commons.io.FileUtils;
 
+import java.io.File;
+import java.io.IOException;
+import java.net.URL;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Application {
-    private static final String ROOT_DL_DIR = "DOWNLOADS/";
+    private static final String ROOT_DL_DIR = "/home/elshotodore/SharedWithHost/AWSDOWNLOADS/";
+
     public static void main(String[] args) {
 
-        Helper.createDirectory(ROOT_DL_DIR + "BLA");
-        System.exit(13);
-        final AmazonS3 s3 = AmazonS3ClientBuilder.standard()
-                .withForceGlobalBucketAccessEnabled(true)
-                //.withRegion(Regions.US_WEST_2)
-                .build();
 
-        final List<String> buckets = Helper.readBucketList("../buckets.log", true);
-        String bucketName = "pilot"; //buckets.get(0);
-        System.out.printf("bucket name => " + bucketName);
-        /*
-        String  region = s3.getBucketLocation(bucketName);
-        System.out.printf("region => " + region);
-        */
-        ObjectListing ol = s3.listObjects(bucketName);
+        final AmazonS3 s3Client = AWSHelper.createS3Client();
 
+        final List<String> bucketNames = FileHelper.readBucketListFromFile("../buckets_All_Unique.txt", true);
+        int bucketLimit = 66;
+        int fileLimit = 10;
 
-        List<S3ObjectSummary> s3ObjectSummaries = ol.getObjectSummaries();
-        final List<String> cleanedUrls = s3ObjectSummaries.stream().map(o -> s3.getUrl(bucketName, o.getKey()).toString()).map(o -> o.replaceAll("s3\\.(.*)\\.amazonaws", "s3.amazonaws")).collect(Collectors.toList());
-        System.out.println(cleanedUrls);
-        /*
-        for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
-            URL s3UrlWithRegion = s3.getUrl(bucketName, s3ObjectSummary.getKey());
-            final String urlString = s3UrlWithRegion.toString().replaceAll("s3\\.(.*)\\.amazonaws", "s3.amazonaws");
-            System.out.println(urlString);
+        int bucketCounter = 0;
+        int fileCounter;
+        for (String bucketName : bucketNames) {
+            System.out.println("Downloading from => " + bucketName);
+
+            final List<URL> urlsFromBucket = AWSHelper.getUrlsFromBucket(s3Client, bucketName);
+            //System.out.println(urlsFromBucket);
+//System.exit(13);
+            fileCounter = 0;
+            for (URL url : urlsFromBucket) {
+                File destination = new File(ROOT_DL_DIR + bucketName + url.getPath());
+                System.out.println("File =>" + url);
+                destination.getParentFile().mkdirs();
+                if(!url.toString().endsWith("/")) {
+                    try {
+                        FileUtils.copyURLToFile(url, destination);
+                    }
+                    catch (IOException ioe) {
+                        System.out.println("Could not download file " + url.toString());
+                    }
+                }
+                if(++fileCounter  > fileLimit) break;
+            }
+            if(++bucketCounter > bucketLimit) break;
         }
-        */
+        System.out.println("DONE.");
     }
 }
