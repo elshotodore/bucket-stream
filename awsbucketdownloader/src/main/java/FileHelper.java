@@ -23,7 +23,7 @@ public class FileHelper {
         Path path = Paths.get(directoryName);
         try {
             if(!Files.exists(path)) {
-                System.out.printf("Creating directory " + directoryName);
+                System.out.println("Creating directory " + directoryName);
                 Files.createDirectories(path);
             }
             else {
@@ -31,7 +31,7 @@ public class FileHelper {
             }
         } catch (IOException ioe) {
             System.out.println("ERROR: Cannot create directory " + directoryName);
-            System.out.printf("Exception was: " + ioe.getMessage());
+            System.out.println("Exception was: " + ioe.getMessage());
         }
     }
 

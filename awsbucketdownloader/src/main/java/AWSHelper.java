@@ -33,9 +33,9 @@ public class AWSHelper {
         final List<URL> urls = new ArrayList<>();
         try {
             int i = 0;
+            System.out.println("Retrieving urls for bucket " + bucketName);
             urlListing = s3Client.listObjects(bucketName);
             s3ObjectSummaries = urlListing.getObjectSummaries();
-
             for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
                 URL url = s3Client.getUrl(bucketName, s3ObjectSummary.getKey());
                 if (url != null) {
@@ -44,7 +44,7 @@ public class AWSHelper {
             }
 
             while (urlListing.isTruncated()) {
-                System.out.println("Round " + ++i);
+                System.out.print("\r" + urls.size() + " urls retrieved...");
                 urlListing = s3Client.listNextBatchOfObjects(urlListing);
                 s3ObjectSummaries = urlListing.getObjectSummaries();
                 for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
@@ -54,6 +54,7 @@ public class AWSHelper {
                     }
                 }
             }
+            System.out.print("\r" + urls.size() + " urls retrieved...\n");
         }
         catch (AmazonS3Exception as3e) {
             System.out.printf("ERROR: Status code: " + as3e.getStatusCode() + ", Error code: " + as3e.getErrorCode());
