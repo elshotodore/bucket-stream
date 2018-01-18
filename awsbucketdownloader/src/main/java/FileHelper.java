@@ -48,4 +48,19 @@ public class FileHelper {
         }
         return buckets;
     }
+
+    /***
+     * Read the interesting keywords list from file.
+     * @param fileName
+     * @return
+     */
+    public static List<String> readInterestingKeywords(String fileName) {
+        List<String> keywords = new ArrayList();
+        try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
+            keywords = stream.map(kw -> kw.toLowerCase()).collect(Collectors.toList());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return keywords;
+    }
 }

@@ -8,14 +8,13 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class AWSHelper {
     /***
      * Create the client.
      * @return s3Client
      */
-    public static AmazonS3 createS3Client() {
+    public AmazonS3 createS3Client() {
         final AmazonS3 s3Client = AmazonS3ClientBuilder.standard()
                 .withForceGlobalBucketAccessEnabled(true)
                 .build();
@@ -28,7 +27,7 @@ public class AWSHelper {
      * @param bucketName
      * @return List of URLs
      */
-    public static List<URL> getUrlsFromBucket(AmazonS3 s3Client, String bucketName) {
+    public List<URL> getUrlsFromBucket(AmazonS3 s3Client, String bucketName) {
         final List<URL> urls = new ArrayList<>();
         try {
             final ObjectListing ol = s3Client.listObjects(bucketName);
@@ -51,4 +50,6 @@ public class AWSHelper {
         }
         return urls;
     }
+
+
 }
