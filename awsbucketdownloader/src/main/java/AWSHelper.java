@@ -27,29 +27,57 @@ public class AWSHelper {
      * @param bucketName
      * @return List of URLs
      */
-    public List<URL> getUrlsFromBucket(AmazonS3 s3Client, String bucketName) {
+    public List<URL> recursivelyGetUrlsFromBucket(AmazonS3 s3Client, String bucketName) {
+        ObjectListing urlListing;
+        List<S3ObjectSummary> s3ObjectSummaries;
         final List<URL> urls = new ArrayList<>();
         try {
-            final ObjectListing ol = s3Client.listObjects(bucketName);
-            final List<S3ObjectSummary> s3ObjectSummaries = ol.getObjectSummaries();
+            urlListing = s3Client.listObjects(bucketName);
+            s3ObjectSummaries = urlListing.getObjectSummaries();
 
-            // remove the region from url
-            for (S3ObjectSummary s3ObjectSummary: s3ObjectSummaries) {
-                String urlString = s3Client.getUrl(bucketName, s3ObjectSummary.getKey()).toString();
-                urlString = urlString.replaceAll("s3\\.(.*)\\.amazonaws", "s3.amazonaws");
-                try {
-                    URL url = new URL(urlString);
-                    urls.add(url);
-                } catch (MalformedURLException e) {
-                    e.printStackTrace();
+            for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
+                URL url = s3Client.getUrl(bucketName, s3ObjectSummary.getKey());
+                if (url != null) {
+                    urls.add(removeRegionFromUrl(url));
+                }
+            }
+
+            while (urlListing.isTruncated()) {
+                urlListing = s3Client.listNextBatchOfObjects(urlListing);
+                s3ObjectSummaries = urlListing.getObjectSummaries();
+                for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
+                    URL url = s3Client.getUrl(bucketName, s3ObjectSummary.getKey());
+                    if (url != null) {
+                        urls.add(removeRegionFromUrl(url));
+                    }
                 }
             }
         }
-        catch(AmazonS3Exception as3e) {
-            System.out.printf("AmazonS3Exception: " + as3e);
+        catch (AmazonS3Exception as3e) {
+            System.out.printf("ERROR: Status code: " + as3e.getStatusCode() + ", Error code: " + as3e.getErrorCode());
         }
         return urls;
     }
 
+    private URL removeRegionFromUrl(URL url)  {
+        try {
+            return new URL(url.toString().replaceAll("s3\\.(.*)\\.amazonaws", "s3.amazonaws"));
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
 
+    public List<URL> filterUrlsByKeyword(List<URL> urlList, List<String> keywordList) {
+        List<URL> filterdUrlList = new ArrayList<>();
+        for (URL url : urlList) {
+            for (String keyword : keywordList) {
+                if (url.toString().contains(keyword)) {
+                    filterdUrlList.add(url);
+                }
+            }
+        }
+
+        return filterdUrlList;
+    }
 }
