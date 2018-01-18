@@ -2,7 +2,10 @@ import com.amazonaws.services.s3.AmazonS3;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
@@ -28,6 +31,7 @@ public class Application {
         List<URL> interestingUrls = new ArrayList<>();
         int bucketCounter = 0;
         int fileCounter;
+
         for (String bucketName : bucketNames) {
             int numBucketsToCheck = (bucketLimit!=-1) ? bucketLimit : bucketNames.size();
             System.out.println("\nTrying bucket " + bucketName +  " (" + (bucketCounter + 1) + " of " + numBucketsToCheck + ")");
@@ -41,6 +45,7 @@ public class Application {
                 }
                 // save all the interesting stuff for later
                 interestingUrls.addAll(filteredUrlsFromBucket);
+
 
                 if(DO_DOWNLOAD) {
                     fileCounter = 0;
@@ -59,13 +64,14 @@ public class Application {
                         if (fileDownloadCountLimit != -1 && fileCounter >= fileDownloadCountLimit) break;
                     }
                 }
+                boolean append = true;
+                FileHelper.writeInterestingUrlsToFile("interestingurls.txt", interestingUrls, append);
             }
             bucketCounter++;
             if (bucketLimit != -1 && bucketCounter >= bucketLimit) {
                 break;
             }
         }
-        FileHelper.writeInterestingUrlsToFile("interestingurls.txt", interestingUrls);
         System.out.println("DONE.");
     }
 

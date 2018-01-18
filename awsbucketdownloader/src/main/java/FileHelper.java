@@ -70,13 +70,14 @@ public class FileHelper {
         return keywords;
     }
 
-    public static void writeInterestingUrlsToFile(String fileName, List<URL> urls) {
+    public static void writeInterestingUrlsToFile(String fileName, List<URL> urls, boolean append) {
         PrintWriter pw = null;
         try {
-            pw = new PrintWriter(new FileOutputStream(fileName));
+            pw = new PrintWriter(new FileOutputStream(fileName, append));
             for (URL url : urls) {
                 pw.println(url);
             }
+            pw.flush();
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
