@@ -1,4 +1,10 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -62,5 +68,22 @@ public class FileHelper {
             e.printStackTrace();
         }
         return keywords;
+    }
+
+    public static void writeInterestingUrlsToFile(String fileName, List<URL> urls) {
+        PrintWriter pw = null;
+        try {
+            pw = new PrintWriter(new FileOutputStream(fileName));
+            for (URL url : urls) {
+                pw.println(url);
+            }
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        finally {
+            pw.close();
+        }
+
     }
 }

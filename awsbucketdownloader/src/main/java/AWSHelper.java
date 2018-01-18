@@ -32,6 +32,7 @@ public class AWSHelper {
         List<S3ObjectSummary> s3ObjectSummaries;
         final List<URL> urls = new ArrayList<>();
         try {
+            int i = 0;
             urlListing = s3Client.listObjects(bucketName);
             s3ObjectSummaries = urlListing.getObjectSummaries();
 
@@ -43,6 +44,7 @@ public class AWSHelper {
             }
 
             while (urlListing.isTruncated()) {
+                System.out.println("Round " + ++i);
                 urlListing = s3Client.listNextBatchOfObjects(urlListing);
                 s3ObjectSummaries = urlListing.getObjectSummaries();
                 for (S3ObjectSummary s3ObjectSummary : s3ObjectSummaries) {
@@ -72,7 +74,7 @@ public class AWSHelper {
         List<URL> filterdUrlList = new ArrayList<>();
         for (URL url : urlList) {
             for (String keyword : keywordList) {
-                if (url.toString().contains(keyword)) {
+                if (url.toString().toLowerCase().contains(keyword)) {
                     filterdUrlList.add(url);
                 }
             }
