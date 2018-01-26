@@ -2456,6 +2456,7 @@ htc.s3.amazonaws.com
 html5-test.s3.amazonaws.com
 htp-staging.s3.amazonaws.com
 htp-test.s3.amazonaws.com
+http://printmarket.s3-us-west-2.amazonaws.com/
 huddersfield.s3.amazonaws.com
 huddle-dev.s3.amazonaws.com
 huddle-staging.s3.amazonaws.com
