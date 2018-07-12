@@ -49,6 +49,8 @@ If you provide AWS access and secret keys in `config.yaml` Bucket Stream will at
       -l, --log             Log found buckets to a file buckets.log (default:
                             False)
 
+Combine all buckets into a single list (sorted and unique) -> **sort -u buckets.log > buckets_All_Unique.txt**
+
 ## F.A.Qs
 
 - **Nothing appears to be happening**
