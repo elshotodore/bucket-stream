@@ -156,7 +156,7 @@ class BucketWorker(Thread):
                     and (not ARGS.only_interesting or
                              (ARGS.only_interesting and any(keyword in bucket_response.text for keyword in KEYWORDS))):
                 cprint("Found bucket '{}'".format(new_bucket_url), "green", attrs=["bold"])
-                self.__log(new_bucket_url)
+                self.__log(new_bucket_url, "", "")
 
     def __check_boto(self, bucket_url):
         bucket_name = bucket_url.replace(".s3.amazonaws.com", "")
@@ -175,15 +175,16 @@ class BucketWorker(Thread):
                     acl = self.session.meta.client.get_bucket_acl(
                         Bucket=bucket_name)
                     owner = acl["Owner"]["DisplayName"]
-                    acls = ". ACLs = {} | {}".format(self.__get_group_acls(acl, "AllUsers"),
+                    acls = "ACLS = {} | {}".format(self.__get_group_acls(acl, "AllUsers"),
                                                      self.__get_group_acls(acl, "AuthenticatedUsers"))
                 except:
-                    acls = ". ACLS = (could not read)"
+                    acls = "ACLS = (could not read)"
 
                 color = "green" if not owner else "magenta"
-                cprint("Found bucket '{}'. Owned by '{}'{}".format(
+                cprint("Found bucket '{}'. Owned by '{}'. {}".format(
                     bucket_url, owner if owner else "(unknown)", acls), color, attrs=["bold"])
-                self.__log(bucket_url)
+                self.__log("{};OWNER:{};{}".format(
+                    bucket_url, owner if owner else "(unknown)", acls))
         except:
             pass
 
@@ -201,13 +202,13 @@ class BucketWorker(Thread):
         except:
             return False
 
-    def __log(self, new_bucket_url):
+    def __log(self, logentry):
         global FOUND_COUNT
         FOUND_COUNT += 1
 
         if ARGS.log_to_file:
             with open("buckets.log", "a+") as log:
-                log.write("%s%s" % (new_bucket_url, os.linesep))
+                log.write("%s%s" % (logentry, os.linesep))
 
 
 def get_permutations(parsed_domain):

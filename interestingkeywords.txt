@@ -1,5 +1,6 @@
 .apk
 .bak
+.doc
 .csv
 .inc.php
 .log
@@ -23,7 +24,7 @@ ethereum
 geheim
 gov
 invoice
-lsecret
+monero
 mp3
 noforn
 nsa
