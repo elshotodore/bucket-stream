@@ -49,7 +49,34 @@ If you provide AWS access and secret keys in `config.yaml` Bucket Stream will at
       -l, --log             Log found buckets to a file buckets.log (default:
                             False)
 
-Combine all buckets into a single list (sorted and unique) -> **sort -u buckets.log > buckets_All_Unique.txt**
+- Combine all buckets into a single list (sorted and unique) -> **sort -u buckets.log > buckets_All_Unique.txt**
+
+
+- Unify different log formats
+Replace ^(.*)\n^(.*);(.*) by \2;\3
+
+
+apd.s3.amazonaws.com
+ape-staging.s3.amazonaws.com
+apex-dev.s3.amazonaws.com
+apex-dev.s3.amazonaws.com;OWNER:olivier;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+apex.s3.amazonaws.com
+apex.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+apl-staging.s3.amazonaws.com
+ap-media.s3.amazonaws.com
+apollo-creative.s3.amazonaws.com
+apoorv.s3.amazonaws.com
+
+becomes
+
+apd.s3.amazonaws.com
+ape-staging.s3.amazonaws.com
+apex-dev.s3.amazonaws.com;OWNER:olivier;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+apex.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+apl-staging.s3.amazonaws.com
+ap-media.s3.amazonaws.com
+apollo-creative.s3.amazonaws.com
+apoorv.s3.amazonaws.com
 
 ## F.A.Qs
 
