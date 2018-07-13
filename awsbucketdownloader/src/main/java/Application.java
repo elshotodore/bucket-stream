@@ -8,33 +8,35 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
 public class Application {
     private static final Properties properties = ConfigHelper.getProperties();
     private static final String ROOT_DL_DIR = properties.getProperty("download.root.folder");
-    private static final String BUCKET_NAME_FILE = properties.getProperty("bucket.names.file");
-    private static final String KEYWORDS_FILE = properties.getProperty("keyword.file");
-    private static final boolean DO_DOWNLOAD = false;
+    private static final String BUCKET_NAME_FILE = properties.getProperty("application.rooth.path") + properties.getProperty("bucket.names.file");
+    private static final String KEYWORDS_FILE = properties.getProperty("application.rooth.path") + properties.getProperty("keyword.file");
+    private static final boolean DO_FILTERING = Boolean.getBoolean(properties.getProperty("filter.by.keyword"));
+    private static final boolean DO_DOWNLOAD = Boolean.getBoolean(properties.getProperty("download.files"));
 
 
     private static final AWSHelper awsHelper = new AWSHelper();
 
-    private static int bucketLimit = -1;
+    private static int bucketLimit = 10;
     private static int fileDownloadCountLimit = 3;
 
     public static void main(String[] args) {
-        final AmazonS3 s3Client = awsHelper.createS3Client();
         List<String> bucketNames = FileHelper.readBucketListFromFile(BUCKET_NAME_FILE, true);
+
         final List<String> interestingKeywords = FileHelper.readInterestingKeywords(KEYWORDS_FILE);
         List<URL> interestingUrls = new ArrayList<>();
+        final AmazonS3 s3Client = awsHelper.createS3Client();
         int bucketCounter = 0;
         int fileCounter;
-
         for (String bucketName : bucketNames) {
             int numBucketsToCheck = (bucketLimit!=-1) ? bucketLimit : bucketNames.size();
-            System.out.println("\nTrying bucket " + bucketName +  " (" + (bucketCounter + 1) + " of " + numBucketsToCheck + ")");
+            System.out.println("\nTrying bucket -->" + bucketName + "<-- (" + (bucketCounter + 1) + " of " + numBucketsToCheck + ")");
 
             final List<URL> urlsFromBucket = awsHelper.recursivelyGetUrlsFromBucket(s3Client, bucketName);
             if (!urlsFromBucket.isEmpty()) {
@@ -57,7 +59,8 @@ public class Application {
                             try {
                                 FileUtils.copyURLToFile(url, destination);
                             } catch (IOException ioe) {
-                                System.out.println("Could not download file " + url.toString());
+                                System.out.println(ioe.getMessage());
+                                //System.out.println("Could not download file " + url.toString());
                             }
                         }
                         fileCounter++;
@@ -72,7 +75,7 @@ public class Application {
                 break;
             }
         }
-        System.out.println("DONE.");
+        System.out.println("\nDONE.");
     }
 
 }
