@@ -124,6 +124,7 @@ actio.s3.amazonaws.com
 actitud.s3.amazonaws.com
 activate-dev.s3.amazonaws.com
 activeminds.s3.amazonaws.com
+act-staging.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 acvr.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 adalabs.s3..amazonaws.com
 adamhobbs.s3.amazonaws.com
@@ -176,6 +177,7 @@ afal.s3.amazonaws.com
 afferentinput.s3.amazonaws.com
 affiliatemarketingclub.s3.amazonaws.com
 afiliadoguerreiro.s3.amazonaws.com
+afinia.s3.amazonaws.com;OWNER:ximin;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 africanmango.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 aftec.s3.amazonaws.com
 afterpay.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -261,6 +263,7 @@ alphacom.s3.amazonaws.com
 alpha-docker.s3.amazonaws.com
 alpha.s3.amazonaws.com
 alphastore.s3.amazonaws.com
+alphastore.s3.amazonaws.com;OWNER:skincarehowto;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 alpha-www.s3.amazonaws.com
 alpine-independents.s3.amazonaws.com
 als-dev.s3.amazonaws.com;OWNER:sean;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -288,6 +291,7 @@ amazingradios.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ambit.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ambrogio.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 amcor-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+americanclassic.s3.amazonaws.com;OWNER:Michaelross1961;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 amici.s3.amazonaws.com
 am-import.s3.amazonaws.com;OWNER:andre;ACLS = AllUsers: READ, WRITE, READ_ACP | AuthenticatedUsers: (none)
 amismotards.s3.amazonaws.com
@@ -349,12 +353,14 @@ anuk.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 anvideos.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 anyepic.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 anything-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+anyway.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 anz.s3.amazonaws.com
 aof.s3.amazonaws.com;OWNER:carreragt;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 aokhealth.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 aoo.s3.amazonaws.com
 aou.s3.amazonaws.com
 apac.s3.amazonaws.com
+apacsale-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 apac-test.s3.amazonaws.com
 apartable-test.s3.amazonaws.com
 apa.s3.amazonaws.com
@@ -377,6 +383,7 @@ appdir.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 appetit.s3.amazonaws.com;OWNER:coappetit;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 appian.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 appics.s3.amazonaws.com;OWNER:dennischia1995;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
+apple-staging.s3.amazonaws.com;OWNER:elson;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 application-backup.s3.amazonaws.com
 appone.s3.amazonaws.com
 appongo.s3.amazonaws.com
@@ -568,6 +575,7 @@ baboushka.s3.amazonaws.com
 babrika.s3.amazonaws.com;OWNER:emad.shaaban92;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 babygames.s3.amazonaws.com
 babyjogger.s3.amazonaws.com
+babyme.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 baccarat.s3.amazonaws.com
 bacera.s3.amazonaws.com
 backbone-dev.s3.amazonaws.com
@@ -730,6 +738,7 @@ berti.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bespoke.s3.amazonaws.com
 bestbike-dev.s3.amazonaws.com
 bestbike.s3.amazonaws.com
+bestoftest.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bestplace.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bestshop.s3.amazonaws.com
 bestwishes.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -743,7 +752,10 @@ betterexplained.s3.amazonaws.com
 bettervacations.s3.amazonaws.com
 be-www.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 beyond-dev.s3.amazonaws.com
+beyond-dev.s3.amazonaws.com;OWNER:carmine.denicola;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, READ_ACP
 beyond.s3.amazonaws.com
+beyond.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+beyond-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 beyondthegeek.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bey-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bfm-staging.s3.amazonaws.com
@@ -752,6 +764,7 @@ bggroup.s3.amazonaws.com
 bgt.s3.amazonaws.com
 bhal.s3.amazonaws.com
 bhc-test.s3.amazonaws.com
+bhmarketing.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bhm.s3.amazonaws.com
 bibains.s3.amazonaws.com
 bibleshop.s3.amazonaws.com
@@ -827,6 +840,7 @@ blaze.s3.amazonaws.com;OWNER:guerillajames;ACLS = AllUsers: FULL_CONTROL | Authe
 blazity.s3.amazonaws.com
 blc-prod.s3.amazonaws.com
 bleach.s3.amazonaws.com
+bleach.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 blife.s3.amazonaws.com
 blindtec.s3.amazonaws.com
 blinksale-staging.s3.amazonaws.com;OWNER:bc;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -867,8 +881,11 @@ bmania-staging.s3.amazonaws.com
 bmbook.s3.amazonaws.com
 bmd-staging.s3.amazonaws.com
 bme-backup.s3.amazonaws.com
+bme-backup.s3.amazonaws.com;OWNER:admin;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 bme-dev.s3.amazonaws.com
+bme-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bme.s3.amazonaws.com
+bme.s3.amazonaws.com;OWNER:founders;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 bml-dev.s3.amazonaws.com;OWNER:rick;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 bms-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bmw-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -918,6 +935,7 @@ bounceapp.s3.amazonaws.com
 boundless-www.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bounties-dev.s3.amazonaws.com
 bounties.s3.amazonaws.com
+bountyboard.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 boutiquedanceacademy.s3.amazonaws.com
 boxbee-dev.s3.amazonaws.com
 boxi-dev.s3.amazonaws.com
@@ -928,6 +946,7 @@ brainmapping.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 bram2.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 brandimpact.s3.amazonaws.com
 brandio.s3.amazonaws.com
+brandio.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 brandless-prod.s3.amazonaws.com
 brandless-test.s3.amazonaws.com
 brandme.s3.amazonaws.com
@@ -1083,6 +1102,7 @@ cargame.s3.amazonaws.com
 cargill.s3.amazonaws.com
 carica.s3.amazonaws.com
 carleen.s3.amazonaws.com
+carlos-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 carmin-dev.s3.amazonaws.com
 carmin.s3.amazonaws.com
 caronafacil.s3.amazonaws.com
@@ -1127,6 +1147,7 @@ caxy.s3.amazonaws.com
 cbc.s3.amazonaws.com
 cbl.s3.amazonaws.com;OWNER:thin_ice;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 cbp.s3.amazonaws.com
+cbtl.s3.amazonaws.com;OWNER:jesse;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 ccie-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ccis-dev.s3.amazonaws.com
 cclr.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -1174,7 +1195,9 @@ ceptelefonu.s3.amazonaws.com
 cesa.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 cfip.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 cfmt.s3.amazonaws.com;OWNER:aws;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+cfog.s3.amazonaws.com;OWNER:info;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 cfo-prod.s3.amazonaws.com
+cfo-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 cfs-backup.s3.amazonaws.com
 cfsb.s3.amazonaws.com
 cf-uat.s3.amazonaws.com
@@ -1342,6 +1365,7 @@ cmtm.s3.amazonaws.com
 cmvs.s3.amazonaws.com
 cn1.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 cnt-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+coachella-test.s3.amazonaws.com;OWNER:cam;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 coaching1.s3.amazonaws.com
 coaching.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 coachings.s3.amazonaws.com
@@ -1512,6 +1536,7 @@ crypto-staging.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 crystalclearcleaning.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 crystal-clear.s3.amazonaws.com
 csar.s3.amazonaws.com
+csar.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 csb-dev.s3.amazonaws.com
 csc.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 csd.s3.amazonaws.com
@@ -1537,6 +1562,7 @@ cti-test.s3.amazonaws.com
 cti-test.s3.amazonaws.com;OWNER:greg;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
 ctt.s3.amazonaws.com
 ctt.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+cuadros.s3.amazonaws.com;OWNER:fernando;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, WRITE
 cubatrade.s3.amazonaws.com
 cuckoo.s3.amazonaws.com
 cues.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -1566,6 +1592,7 @@ cvisionlab.s3.amazonaws.com
 cvno.s3.amazonaws.com
 cwb-backup.s3.amazonaws.com
 cwc.s3.amazonaws.com
+cxc.s3.amazonaws.com;OWNER:IMT#AWS043;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: FULL_CONTROL
 cyan-staging.s3.amazonaws.com
 cyberbrain.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 cyberdojang.s3.amazonaws.com
@@ -1596,6 +1623,7 @@ danceraccess.s3.amazonaws.com
 dances.s3.amazonaws.com
 dancetime.s3.amazonaws.com
 dania.s3.amazonaws.com
+danijohnson.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dan-stuff.s3.amazonaws.com
 dan-test.s3.amazonaws.com;OWNER:daniele.chan;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 danthedev-test.s3.amazonaws.com
@@ -1671,6 +1699,7 @@ democracy-backup.s3.amazonaws.com
 demo-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 demovideo-test.s3.amazonaws.com;OWNER:191e0aba-7046-11e7-9a63-13971cbfd173;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 demoview.s3.amazonaws.com
+denise.s3.amazonaws.com;OWNER:thelinklater;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 deniskristanda.s3.amazonaws.com
 dentalchoice.s3.amazonaws.com
 dentistfunnels.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -1711,6 +1740,7 @@ dev-bigdata.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-buffalo.s3.amazonaws.com
 dev-cf.s3.amazonaws.com
 dev-chroma.s3.amazonaws.com
+dev-clafoutis.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-cloud.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-codeship.s3.amazonaws.com;OWNER:aws+orora;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 devcomm.s3.amazonaws.com
@@ -1749,6 +1779,7 @@ devicestore.s3.amazonaws.com
 devine.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-input.s3.amazonaws.com
 dev-input.s3.amazonaws.com;OWNER:mihai.stirbat;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
+dev-instruments.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-interactives.s3.amazonaws.com
 dev-ir.s3.amazonaws.com;OWNER:authentic.sols;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
 dev-its.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -1757,6 +1788,7 @@ dev-json.s3.amazonaws.com
 dev-keystone.s3.amazonaws.com
 devkit.s3.amazonaws.com
 devlabs.s3.amazonaws.com
+devlabs.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-lake.s3.amazonaws.com
 dev-library.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dev-loyalty.s3.amazonaws.com;OWNER:devops;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
@@ -1829,6 +1861,7 @@ dfds.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dftp.s3.amazonaws.com
 dfu-test.s3.amazonaws.com
 dghome.s3.amazonaws.com
+dgr-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dharmastore.s3.amazonaws.com
 dharma-www.s3.amazonaws.com
 dhc.s3.amazonaws.com;OWNER:dhc;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
@@ -1857,6 +1890,7 @@ diksha-backup.s3.amazonaws.com
 dillon.s3.amazonaws.com
 dimensiondata-dev.s3.amazonaws.com
 dimensions-dev.s3.amazonaws.com
+dinas.s3.amazonaws.com;OWNER:brainsaw78;ACLS = AllUsers: READ, WRITE | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 dineplan.s3.amazonaws.com
 dingo-dev.s3.amazonaws.com
 diningalliance.s3.amazonaws.com
@@ -1898,8 +1932,11 @@ dmtt.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dmw.s3.amazonaws.com
 dmy.s3.amazonaws.com
 dna-dev.s3.amazonaws.com
+dna-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dna-prod.s3.amazonaws.com
+dna-prod.s3.amazonaws.com;OWNER:dna-dev;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 dna-staging.s3.amazonaws.com
+dna-staging.s3.amazonaws.com;OWNER:dna_gb;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 dnss.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dnysa.s3.amazonaws.com
 dobs.s3.amazonaws.com
@@ -1909,6 +1946,7 @@ dockerproject.s3.amazonaws.com
 docker.s3.amazonaws.com
 docload.s3.amazonaws.com
 docnet.s3.amazonaws.com
+docnet.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 docrepository.s3.amazonaws.com
 doctoryum.s3.amazonaws.com;OWNER:matthew;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 doctype.s3.amazonaws.com
@@ -1937,6 +1975,7 @@ doubleclick.s3.amazonaws.com
 doublehappy.s3.amazonaws.com
 doublehorn.s3.amazonaws.com
 downloadapk.s3.amazonaws.com
+downloads1.s3.amazonaws.com;OWNER:john;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 download.s3.amazonaws.com;OWNER:olalekan.adesina;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 downloadvideo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 downtownmissionchurch.s3.amazonaws.com
@@ -1996,6 +2035,7 @@ dt-prod.s3.amazonaws.com
 dublive.s3.amazonaws.com;OWNER:jacoby;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 dudamobile-test.s3.amazonaws.com
 dumas.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+dumy.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 dundee.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 durb.s3.amazonaws.com
 dutch.s3.amazonaws.com
@@ -2047,6 +2087,7 @@ ecig.s3.amazonaws.com
 eckinox.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 eclass.s3.amazonaws.com
 e-cloud.s3.amazonaws.com
+ecobee-dev.s3.amazonaws.com;OWNER:cooperwd;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: FULL_CONTROL
 ecognize.s3.amazonaws.com
 ecolocation.s3.amazonaws.com
 ecolove.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -2446,6 +2487,7 @@ fixmymind.s3.amazonaws.com
 fk-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 flamingo-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 flashbuzz.s3.amazonaws.com
+flash-player.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 flashslots.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 flathunter.s3.amazonaws.com
 flat.s3.amazonaws.com
@@ -2500,6 +2542,7 @@ foghorn.s3.amazonaws.com
 foi-prod.s3.amazonaws.com
 foi.s3.amazonaws.com
 folio-app.s3.amazonaws.com
+fol.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fomo-test.s3.amazonaws.com
 fonics.s3.amazonaws.com
 font.s3.amazonaws.com
@@ -2549,6 +2592,7 @@ frantz.s3.amazonaws.com
 frasa.s3.amazonaws.com
 fraser-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fraser-www.s3.amazonaws.com;OWNER:adrian.suarez;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
+fraxtion-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fred-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fred.s3.amazonaws.com
 fred.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -2626,6 +2670,7 @@ funzone.s3.amazonaws.com
 furespo.s3.amazonaws.com
 fuse.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fusionbuilt.s3.amazonaws.com
+fusion-dev.s3.amazonaws.com;OWNER:hach_iim;ACLS = AllUsers: READ, WRITE, READ_ACP | AuthenticatedUsers: (none)
 futurecms.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fw-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 fwd-staging.s3.amazonaws.com
@@ -2672,6 +2717,7 @@ gateway-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gathercontent-test.s3.amazonaws.com
 gathering-prod.s3.amazonaws.com
 gato-test.s3.amazonaws.com;OWNER:i;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+gatsby.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gats.s3.amazonaws.com
 gats.s3.amazonaws.com;OWNER:skystreetllc;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 gayescortclub.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -2784,6 +2830,7 @@ gms.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gnar.s3.amazonaws.com
 goa-dev.s3.amazonaws.com
 goal.s3.amazonaws.com
+goals.s3.amazonaws.com;OWNER:unify11;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
 gobag.s3.amazonaws.com;OWNER:fvcoelho;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 gobhash.s3.amazonaws.com
 gobig.s3.amazonaws.com
@@ -2791,6 +2838,7 @@ gobig.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gobo-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 goco.s3.amazonaws.com
 goco.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+godaddy.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 godelivery.s3.amazonaws.com
 goe-www.s3.amazonaws.com
 gofair.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -2807,6 +2855,7 @@ golfdigest.s3.amazonaws.com
 golfdigest-staging.s3.amazonaws.com
 golfpartner.s3.amazonaws.com
 golfpro.s3.amazonaws.com;OWNER:tkremer8;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
+gomoku.s3.amazonaws.com;OWNER:samex.srt.aws;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ
 gon-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gonline.s3.amazonaws.com
 goodeats.s3.amazonaws.com;OWNER:ericjacobcook;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
@@ -2814,6 +2863,7 @@ goodfolio-dev.s3.amazonaws.com
 goodfolio-staging.s3.amazonaws.com
 goodgirl.s3.amazonaws.com
 goodheart.s3.amazonaws.com
+goodmorning-dev.s3.amazonaws.com;OWNER:tech;ACLS = AllUsers: READ_ACP, READ | AuthenticatedUsers: (none)
 goodtravel-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 goofy.s3.amazonaws.com
 goofy-test.s3.amazonaws.com
@@ -2828,6 +2878,7 @@ gotest.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 goto.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 goutcures.s3.amazonaws.com
 govlaunch-staging.s3.amazonaws.com
+gowma.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 gowp.s3.amazonaws.com
 gpsi.s3.amazonaws.com
 gpstuner.s3.amazonaws.com
@@ -2982,6 +3033,7 @@ hellonico.s3.amazonaws.com
 hempstore.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 henok.s3.amazonaws.com
 henry-dev.s3.amazonaws.com
+henry-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 herbivore-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 herdwatch.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hermitage.s3.amazonaws.com
@@ -3009,12 +3061,15 @@ hillsong.s3.amazonaws.com
 hinda.s3.amazonaws.com
 hinsdale.s3.amazonaws.com
 hint.s3.amazonaws.com
+hipaa.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+hipaa-test.s3.amazonaws.com;OWNER:qubole;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: FULL_CONTROL
 hitabs.s3.amazonaws.com;OWNER:info;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: FULL_CONTROL
 hitap-staging.s3.amazonaws.com
 hi-tech.s3.amazonaws.com
 hitmc.s3.amazonaws.com
 hitsongpianosystem.s3.amazonaws.com
 hittheroad-staging.s3.amazonaws.com
+hivedatabase.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hiv.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hiyoko.s3.amazonaws.com;OWNER:b.m.flisk;ACLS = AllUsers: READ_ACP | AuthenticatedUsers: READ, READ_ACP, WRITE_ACP
 hkh-prod.s3.amazonaws.com
@@ -3063,6 +3118,7 @@ hostdata.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hosted-service.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hosting.s3.amazonaws.com
 hosting-staging.s3.amazonaws.com
+hostkey.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hostmail.s3.amazonaws.com
 hostsite.s3.amazonaws.com;OWNER:jon;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 host-test.s3.amazonaws.com
@@ -3082,6 +3138,7 @@ howlermonkey.s3.amazonaws.com
 howmuch.s3.amazonaws.com
 howmuch.s3.amazonaws.com;OWNER:kayethano;ACLS = AllUsers: READ, WRITE, READ_ACP | AuthenticatedUsers: (none)
 howtocode.s3.amazonaws.com
+howtocode.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 hpg.s3.amazonaws.com
 hpl.s3.amazonaws.com
 hpsource.s3.amazonaws.com
@@ -3138,6 +3195,7 @@ iassist.s3.amazonaws.com;OWNER:tonylu0302;ACLS = AllUsers: FULL_CONTROL | Authen
 ible.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 iboc.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 iboga.s3.amazonaws.com
+iboga.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ib-uat.s3.amazonaws.com
 ibus.s3.amazonaws.com
 ican-prod.s3.amazonaws.com;OWNER:kvg.nair;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
@@ -3215,6 +3273,7 @@ imgd.s3.amazonaws.com
 imgmgmt.s3.amazonaws.com
 imgrum.s3.amazonaws.com
 img.s3.amazonaws.com
+img.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 immersive.s3.amazonaws.com
 imoto-dev.s3.amazonaws.com
 imovel.s3.amazonaws.com;OWNER:fernando;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
@@ -3284,6 +3343,7 @@ innate.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 innertube.s3.amazonaws.com
 inno.s3.amazonaws.com
 innoval.s3.amazonaws.com
+innovationday.s3.amazonaws.com;OWNER:jdoshi110;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 innovations-backup.s3.amazonaws.com
 inova-dev.s3.amazonaws.com
 inova-test.s3.amazonaws.com
@@ -3495,6 +3555,7 @@ journylab-staging.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 joygame.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 jpegmini.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 jquery-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+jr-staging.s3.amazonaws.com;OWNER:jackpotrising;ACLS = AllUsers: READ_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 jscdn.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 jsn-test.s3.amazonaws.com
 json-test.s3.amazonaws.com
@@ -3546,6 +3607,7 @@ karl-test.s3.amazonaws.com
 karma-dev.s3.amazonaws.com
 katch-test.s3.amazonaws.com;OWNER:vantagemedia;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, READ_ACP
 kat-ha.s3.amazonaws.com
+katim-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 katra.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 kau.s3.amazonaws.com
 kayan.s3.amazonaws.com
@@ -3867,6 +3929,7 @@ livestockdirect.s3.amazonaws.com
 livestore-test.s3.amazonaws.com;OWNER:tmedhurst;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 livestream-dev.s3.amazonaws.com
 livestream-test.s3.amazonaws.com
+livingwater.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 liz-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 llk.s3.amazonaws.com;OWNER:noseotter;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 lmi.s3.amazonaws.com;OWNER:imstarboard;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
@@ -3910,6 +3973,7 @@ loretz.s3.amazonaws.com
 lostbot.s3.amazonaws.com
 loto.s3.amazonaws.com
 lotus-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+louisem.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 loungeonfire.s3.amazonaws.com
 lovebeauty.s3.amazonaws.com
 loveby.s3.amazonaws.com;OWNER:kaisersoze200;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -3978,6 +4042,7 @@ magazine-online-dev.s3.amazonaws.com
 magentostaging.s3.amazonaws.com
 magnify.s3.amazonaws.com
 magno.s3.amazonaws.com
+magnusson.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 mags.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 mail-imgs.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 mailservice.s3.amazonaws.com
@@ -3985,6 +4050,8 @@ mailsystem.s3.amazonaws.com
 mainspring.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 maisondeco.s3.amazonaws.com
 make-a-wish-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+makedo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+makeitmatter.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 makeme.s3.amazonaws.com
 makeulike.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 makeupdesignory.s3.amazonaws.com
@@ -3996,6 +4063,7 @@ mandala-dev.s3.amazonaws.com
 mandala-prod.s3.amazonaws.com
 mandala-staging.s3.amazonaws.com
 mandana-backup.s3.amazonaws.com;OWNER:alavi.mehran;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+mandatory.s3.amazonaws.com;OWNER:writing74;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 mango-dev.s3.amazonaws.com
 manja.s3.amazonaws.com
 manonthemoon.s3.amazonaws.com
@@ -4028,6 +4096,7 @@ mark-dev.s3.amazonaws.com
 marketingautomationdiva.s3.amazonaws.com;OWNER:jennseeger;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, READ_ACP
 marketing-dev.s3.amazonaws.com
 marketingmasterclass.s3.amazonaws.com
+marketing-playbook.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 marketingproducts.s3.amazonaws.com
 marketing.s3.amazonaws.com
 marketing.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4070,6 +4139,7 @@ matri.s3.amazonaws.com
 matthenry.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 matthew-staging.s3.amazonaws.com
 mattm-test.s3.amazonaws.com
+mattm-test.s3.amazonaws.com;OWNER:loul;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
 mattress-firm.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 mauna.s3.amazonaws.com
 maurenbrodbeck.s3.amazonaws.com
@@ -4145,9 +4215,11 @@ medlink-staging.s3.amazonaws.com
 meets.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 meet-test.s3.amazonaws.com
 mefleet.s3.amazonaws.com
+megabike.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 megacast.s3.amazonaws.com
 megast-dev.s3.amazonaws.com
 megatron-backup.s3.amazonaws.com
+megatron-backup.s3.amazonaws.com;OWNER:robin.ronne;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
 meig.s3.amazonaws.com
 melancholie.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 melanieduncan.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4229,6 +4301,7 @@ minify.s3.amazonaws.com
 minigram.s3.amazonaws.com
 minihotel.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 minions.s3.amazonaws.com
+minni.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 minnit-staging.s3.amazonaws.com
 mintbet.s3.amazonaws.com
 min-test.s3.amazonaws.com
@@ -4330,6 +4403,7 @@ mountainpeakmarketing.s3.amazonaws.com
 moveis.s3.amazonaws.com;OWNER:mauricioporto;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 movem.s3.amazonaws.com
 moviebook.s3.amazonaws.com
+moviebuddy.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 movieland.s3.amazonaws.com;OWNER:dharenkumar;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 moviepass.s3.amazonaws.com
 movieq.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4446,10 +4520,12 @@ nami.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nanonets.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nan-test.s3.amazonaws.com
 napavalley.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+nap-backup.s3.amazonaws.com;OWNER:cntmve;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 nara.s3.amazonaws.com
 narcos.s3.amazonaws.com
 narro.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nassa.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+natalia-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 natali.s3.amazonaws.com;OWNER:vtezikov;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: FULL_CONTROL
 native-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 naturallyplus.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4463,6 +4539,7 @@ naysa.s3.amazonaws.com
 nazo.s3.amazonaws.com
 nbf-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nbk.s3.amazonaws.com
+nbk.s3.amazonaws.com;OWNER:digifilm-sales;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: FULL_CONTROL
 ncad.s3.amazonaws.com
 ncai.s3.amazonaws.com
 ncc-test.s3.amazonaws.com
@@ -4473,6 +4550,7 @@ nea.s3.amazonaws.com
 nebulon.s3.amazonaws.com
 neemo.s3.amazonaws.com
 neist.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+nelly-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 neorev.s3.amazonaws.com
 neox.s3.amazonaws.com
 neoz-test.s3.amazonaws.com
@@ -4506,6 +4584,7 @@ newday.s3.amazonaws.com
 neweb-backup.s3.amazonaws.com
 newgames.s3.amazonaws.com;OWNER:games2jolly;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 newground.s3.amazonaws.com
+newproduct.s3.amazonaws.com;OWNER:abdul;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 newriver.s3.amazonaws.com
 newscubamarketing.s3.amazonaws.com
 newsfun.s3.amazonaws.com
@@ -4547,6 +4626,7 @@ nimble.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ninashop.s3.amazonaws.com
 nine-staging.s3.amazonaws.com;OWNER:nine.9.hq;ACLS = AllUsers: READ, WRITE, READ_ACP | AuthenticatedUsers: (none)
 ninetypercent.s3.amazonaws.com;OWNER:ib.warnerbring;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
+ninjatech.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nins.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nirmal.s3.amazonaws.com
 nis.s3.amazonaws.com
@@ -4629,6 +4709,7 @@ nutricion.s3.amazonaws.com
 nutrizionesuperiore.s3.amazonaws.com
 nuvola-test.s3.amazonaws.com
 nuwave.s3.amazonaws.com
+nvc.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 nvo-backup.s3.amazonaws.com
 nwe.s3.amazonaws.com;OWNER:attractiondiva;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 nwn-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4662,6 +4743,7 @@ ocw.s3.amazonaws.com
 odin-staging.s3.amazonaws.com
 odin-test.s3.amazonaws.com
 odk.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+odloty.s3.amazonaws.com;OWNER:elcukro;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 odn.s3.amazonaws.com
 odoo.s3.amazonaws.com
 odp-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -4687,6 +4769,7 @@ oio.s3.amazonaws.com
 oit.s3.amazonaws.com
 ok-dev.s3.amazonaws.com;OWNER:1250840014;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 okey-test.s3.amazonaws.com
+okto-test.s3.amazonaws.com;OWNER:yoplait2007;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 okweb.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 olav.s3.amazonaws.com
 olliequinn.s3.amazonaws.com;OWNER:michael;ACLS = AllUsers: READ, WRITE, READ_ACP | AuthenticatedUsers: (none)
@@ -4728,12 +4811,14 @@ onlinebusinessexplosion.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 onlinecasinosusa.s3.amazonaws.com
 onlinecontent.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 onlineconverter.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+onlinedigitalmarketing.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 online-test.s3.amazonaws.com;OWNER:rahul.tamkhane;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 onpageseo.s3.amazonaws.com
 onsip.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 on-staging.s3.amazonaws.com;OWNER:cliff;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 ontarget.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ontotext.s3.amazonaws.com
+onwards.s3.amazonaws.com;OWNER:mail;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 onyxfirmware.s3.amazonaws.com
 oo7.s3.amazonaws.com
 ooh-test.s3.amazonaws.com;OWNER:jack;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
@@ -4752,6 +4837,7 @@ openi.s3.amazonaws.com
 openloadmovies.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 openocean.s3.amazonaws.com
 opensoft.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+openspace.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 opentecnologia.s3.amazonaws.com
 openthought.s3.amazonaws.com
 openvape-staging.s3.amazonaws.com;OWNER:rewards;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -4798,6 +4884,7 @@ ourstory.s3.amazonaws.com
 ourweddingheroes.s3.amazonaws.com
 outagereport.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 out-dev.s3.amazonaws.com
+outdoorfun.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 outdoor.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 outsider.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 outsourcedbookkeeping.s3.amazonaws.com
@@ -4891,6 +4978,7 @@ pbl.s3.amazonaws.com
 pbm-dev.s3.amazonaws.com
 pb-media.s3.amazonaws.com
 pbook.s3.amazonaws.com
+pbook.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 pb-services.s3.amazonaws.com
 pbx-test.s3.amazonaws.com
 pcbiz-dev.s3.amazonaws.com
@@ -4941,8 +5029,10 @@ performance-test.s3.amazonaws.com
 persil-staging.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 personalmamaebebe.s3.amazonaws.com
 personalwallet.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+pesce.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 pesh.s3.amazonaws.com
 peterdale.s3.amazonaws.com
+peterdale.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 peter-test.s3.amazonaws.com
 petplate.s3.amazonaws.com;OWNER:kiwebb88;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 petra.s3.amazonaws.com
@@ -4977,6 +5067,7 @@ photoprint.s3.amazonaws.com
 phrases.s3.amazonaws.com
 phuket-staging.s3.amazonaws.com
 pickoose.s3.amazonaws.com
+pickoose.s3.amazonaws.com;OWNER:andriy;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
 picnic.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 picsbox.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 pictureboss.s3.amazonaws.com
@@ -5103,6 +5194,7 @@ portobello-dev.s3.amazonaws.com;OWNER:steve.mitchelluk;ACLS = AllUsers: (none) |
 portum.s3.amazonaws.com
 pose.s3.amazonaws.com
 positivegrid.s3.amazonaws.com
+positivo.s3.amazonaws.com;OWNER:nitzsche;ACLS = AllUsers: READ, READ_ACP, WRITE_ACP, WRITE | AuthenticatedUsers: WRITE, WRITE_ACP, READ_ACP, READ
 posix.s3.amazonaws.com
 postalk.s3.amazonaws.com
 postbox-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -5189,6 +5281,7 @@ prod-chromecast.s3.amazonaws.com
 prod-community.s3.amazonaws.com
 prod-deployment.s3.amazonaws.com
 prod-ebusiness.s3.amazonaws.com;OWNER:ptyler;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+prod-edu-app.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 prod-edx.s3.amazonaws.com
 prod-emea.s3.amazonaws.com
 prod-e.s3.amazonaws.com
@@ -5292,6 +5385,8 @@ public1001.s3.amazonaws.com
 publicbooks.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 public-dev.s3.amazonaws.com
 publicrelations.s3.amazonaws.com
+publisher-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+publisher.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 publishinghouse.s3.amazonaws.com
 pub-staging.s3.amazonaws.com
 pubu.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -5311,6 +5406,7 @@ pushcheckpayments.s3.amazonaws.com
 push-test.s3.amazonaws.com
 push-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 putcut.s3.amazonaws.com
+putevka.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 putlockers.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 pvideo.s3.amazonaws.com
 pwa-prod.s3.amazonaws.com
@@ -5463,6 +5559,7 @@ recetas.s3.amazonaws.com
 reconv.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 recordio.s3.amazonaws.com;OWNER:rm;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 recovery-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+redar.s3.amazonaws.com;OWNER:daniel;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 redbirdflight.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 redblue.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 redbox-prod.s3.amazonaws.com;OWNER:redboxsupport;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
@@ -5471,6 +5568,7 @@ redbreastwhiskey.s3.amazonaws.com
 redcactus.s3.amazonaws.com
 redcouch.s3.amazonaws.com
 red-dev.s3.amazonaws.com
+redfords-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 redirect-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 redirect-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 rednet.s3.amazonaws.com
@@ -5661,6 +5759,7 @@ rpm-staging.s3.amazonaws.com
 rpn.s3.amazonaws.com
 rpr-dev.s3.amazonaws.com
 rradar-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+rro.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 rrrhys.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 rskyline.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 rsl.s3.amazonaws.com
@@ -5777,11 +5876,15 @@ schumann-uat.s3.amazonaws.com
 sciflow.s3.amazonaws.com
 sci-hub.s3.amazonaws.com
 scm-dev.s3.amazonaws.com
+scm-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+scm-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 scmp.s3.amazonaws.com
+scm.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 scorm-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 scott-dev.s3.amazonaws.com
 scotty-prod.s3.amazonaws.com
 scotty-test.s3.amazonaws.com
+scouts-dev.s3.amazonaws.com;OWNER:robert.j.heald;ACLS = AllUsers: READ, WRITE | AuthenticatedUsers: FULL_CONTROL
 scout-staging.s3.amazonaws.com
 scproduction.s3.amazonaws.com
 scp.s3.amazonaws.com
@@ -5878,6 +5981,7 @@ shadowsofafrica.s3.amazonaws.com
 shagun.s3.amazonaws.com
 shahjahan.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 shake-dev.s3.amazonaws.com
+shake-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 shakeys.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 shandian.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 shani.s3.amazonaws.com;OWNER:hmsraza24;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
@@ -5886,6 +5990,7 @@ shape.s3.amazonaws.com
 sharable.s3.amazonaws.com
 shareit.s3.amazonaws.com
 sharnyandjulius.s3.amazonaws.com
+sharry.s3.amazonaws.com;OWNER:moreharry111;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 shd-test.s3.amazonaws.com
 shearar.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 shep.s3.amazonaws.com
@@ -6003,6 +6108,7 @@ slots.s3.amazonaws.com
 slu.s3.amazonaws.com
 smacar.s3.amazonaws.com
 smartaccess.s3.amazonaws.com
+smartcard-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 smart-chef.s3.amazonaws.com
 smartdb.s3.amazonaws.com;OWNER:guillaume_kaern;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 smartidea.s3.amazonaws.com;OWNER:chris;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
@@ -6036,6 +6142,7 @@ smp-www.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 smr.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 smrt-dev.s3.amazonaws.com
 smsites.s3.amazonaws.com
+snackr.s3.amazonaws.com;OWNER:tech;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, READ_ACP
 snac.s3.amazonaws.com
 snags.s3.amazonaws.com
 snapchat-test.s3.amazonaws.com;OWNER:hsing.daniel;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
@@ -6128,6 +6235,7 @@ spirit.s3.amazonaws.com
 spiritualintelligence.s3.amazonaws.com
 splace.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 splatoralcare.s3.amazonaws.com
+spn-online.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 spoken.s3.amazonaws.com
 spoken.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 spontaneapp.s3.amazonaws.com
@@ -6165,6 +6273,7 @@ ssl2.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ssm-demo.s3.amazonaws.com
 ssn-test.s3.amazonaws.com
 ssv.s3.amazonaws.com
+ssws.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staaloutdoor.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staci.s3.amazonaws.com
 stacylawrence.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6192,6 +6301,7 @@ staging-download.s3.amazonaws.com;OWNER:spare-0650;ACLS = AllUsers: (none) | Aut
 staging-elements.s3.amazonaws.com
 staging-eu.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-extraimages.s3.amazonaws.com
+staging-img.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-infra.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-merinio.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-mirror.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6202,6 +6312,7 @@ staging-rma.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-scp.s3.amazonaws.com
 staging-scp.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-self.s3.amazonaws.com
+staging-self.s3.amazonaws.com;OWNER:nukumi;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 staging-servers.s3.amazonaws.com
 staging-site.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 staging-ssl.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6244,6 +6355,7 @@ stmarys.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 stndn.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 stockoff.s3.amazonaws.com
 stoner.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+stopacne.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 storage-express-test.s3.amazonaws.com;OWNER:corpeng-restricted+aws-production;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 storedemo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 storefoundry-dev.s3.amazonaws.com
@@ -6285,6 +6397,8 @@ subtitles.s3.amazonaws.com
 succeed.s3.amazonaws.com
 succeed.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 suched.s3.amazonaws.com;OWNER:cmlvertsk8er;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, READ_ACP
+sucker-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+sucker.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 suicide.s3.amazonaws.com
 suka.s3.amazonaws.com
 suka.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6334,6 +6448,7 @@ svn.s3.amazonaws.com
 swace.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 swanbay.s3.amazonaws.com
 swarm-dev.s3.amazonaws.com
+swarm-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 swc.s3.amazonaws.com
 swdyd.s3.amazonaws.com
 sweat-test.s3.amazonaws.com
@@ -6552,6 +6667,7 @@ test-dyno.s3.amazonaws.com
 test-dy.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-easybooking.s3.amazonaws.com
 test-ecards.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+test-edu-app.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-eec.s3.amazonaws.com
 test-elect.s3.amazonaws.com
 test-eni.s3.amazonaws.com
@@ -6605,7 +6721,9 @@ test-kiwi.s3.amazonaws.com
 test-ladyluck.s3.amazonaws.com
 test-lantern.s3.amazonaws.com;OWNER:pichon.nicolas1;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 test-la.s3.amazonaws.com
+test-lda.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-loading.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+test-lucid.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-lyft.s3.amazonaws.com;OWNER:ereiman;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 test-magnolia.s3.amazonaws.com
 test-maine.s3.amazonaws.com
@@ -6647,6 +6765,7 @@ test-ntapp.s3.amazonaws.com
 test-nus.s3.amazonaws.com
 test-nus.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-nyc.s3.amazonaws.com
+test-nyc.s3.amazonaws.com;OWNER:kfricovsky;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 test-oa.s3.amazonaws.com
 test-oc.s3.amazonaws.com
 test-oc.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6659,6 +6778,7 @@ test-photo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-pip.s3.amazonaws.com
 test-piscataway.s3.amazonaws.com
 test-portal.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+test-posty.s3.amazonaws.com;OWNER:optieng;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
 test-private.s3.amazonaws.com
 test-program.s3.amazonaws.com
 test-projectr.s3.amazonaws.com;OWNER:pc-nord-account365;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
@@ -6681,6 +6801,7 @@ test-rsh.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-satya.s3.amazonaws.com;OWNER:anjanasabina;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 test-saude.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-scm.s3.amazonaws.com
+test-scm.s3.amazonaws.com;OWNER:systemadmin;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 test-shadow.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-shino.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 test-skin.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -6745,6 +6866,7 @@ tgr.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thai-prod.s3.amazonaws.com;OWNER:steph;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 thang.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thats.s3.amazonaws.com
+thats.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thd.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 theatro-test.s3.amazonaws.com
 theautomati.s3.amazonaws.com
@@ -6754,6 +6876,7 @@ theboathouse.s3.amazonaws.com
 thebridedept.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thecity.s3.amazonaws.com
 thecity-test.s3.amazonaws.com
+theclass.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thedancecommunity.s3.amazonaws.com
 thedecisiontree.s3.amazonaws.com
 thedemo.s3.amazonaws.com
@@ -6763,6 +6886,7 @@ the-garage-door-repair.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 thegiftlist.s3.amazonaws.com
 thehelm.s3.amazonaws.com
 thehouse-backup.s3.amazonaws.com
+thehouse-backup.s3.amazonaws.com;OWNER:seki;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 theindianbirds.s3.amazonaws.com
 thejoint-prod.s3.amazonaws.com
 thelane.s3.amazonaws.com;OWNER:email;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
@@ -6834,8 +6958,10 @@ tjekvik.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tjekvik-staging.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tkd-backup.s3.amazonaws.com
 tk-www.s3.amazonaws.com
+tlbs.s3.amazonaws.com;OWNER:Tiffany;ACLS = AllUsers: READ_ACP, READ, WRITE | AuthenticatedUsers: (none)
 tma-staging.s3.amazonaws.com
 t-mobile-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+tmweb.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tna.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tn-dev.s3.amazonaws.com
 tnr.s3.amazonaws.com
@@ -6848,12 +6974,14 @@ tof.s3.amazonaws.com
 togedr.s3.amazonaws.com
 toimg.s3.amazonaws.com
 toi-planning.s3.amazonaws.com
+tokai-test.s3.amazonaws.com;OWNER:iko-0143;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 tokenly-dev.s3.amazonaws.com
 tokenly.s3.amazonaws.com
 tokopress.s3.amazonaws.com
 toledo-backup.s3.amazonaws.com
 tomflix.s3.amazonaws.com
 tomorrow-media.s3.amazonaws.com
+tomorrow-media.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tonerexpress.s3.amazonaws.com;OWNER:patrick;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP
 tonithea.s3.amazonaws.com
 tonkworks.s3.amazonaws.com;OWNER:kevin;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -6882,6 +7010,7 @@ totus.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 totvs.s3.amazonaws.com;OWNER:lucas;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 tourcupid.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 tours-prod.s3.amazonaws.com
+tours-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 towin-staging.s3.amazonaws.com
 toxic.s3.amazonaws.com
 toyota-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -7038,6 +7167,8 @@ uic.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 uiowa-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 uisolutions-test.s3.amazonaws.com
 ui-staging.s3.amazonaws.com
+ulearn.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+ulearn-staging.s3.amazonaws.com;OWNER:aws;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 ultimarketing.s3.amazonaws.com
 ultra98.s3.amazonaws.com;OWNER:ss_mslattery;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 ultz.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -7096,6 +7227,7 @@ upicksave.s3.amazonaws.com
 uplift-test.s3.amazonaws.com
 uploadedpremium.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 upload-staging.s3.amazonaws.com
+upm.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 upp.s3.amazonaws.com
 uproot.s3.amazonaws.com
 upr-test.s3.amazonaws.com
@@ -7111,6 +7243,7 @@ urbica.s3.amazonaws.com
 urbint.s3.amazonaws.com
 urc.s3.amazonaws.com
 urepp.s3.amazonaws.com
+urf-staging.s3.amazonaws.com;OWNER:appdevelopment;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
 urgentime.s3.amazonaws.com
 urge-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 urge-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -7144,6 +7277,7 @@ vaco-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 vader-prod.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 vader-test.s3.amazonaws.com;OWNER:philipmathew101;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 valarmorghulis.s3.amazonaws.com;OWNER:matiasmoya;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
+val-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 valentin-test.s3.amazonaws.com
 valeria.s3.amazonaws.com
 valhalla.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -7184,6 +7318,7 @@ veritone.s3.amazonaws.com;OWNER:brandaffinity;ACLS = AllUsers: READ_ACP | Authen
 versoes.s3.amazonaws.com
 versus-dev.s3.amazonaws.com
 versus-dev.s3.amazonaws.com;OWNER:contact;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: READ, WRITE, READ_ACP, WRITE_ACP
+vertis.s3.amazonaws.com;OWNER:boni;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 verygood.s3.amazonaws.com
 vesna.s3.amazonaws.com
 ve-staging.s3.amazonaws.com
@@ -7219,8 +7354,10 @@ vidur.s3.amazonaws.com
 vidyo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 viessmann.s3.amazonaws.com
 vietjet.s3.amazonaws.com
+viewfiles.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 view-test.s3.amazonaws.com
 viewworld-test.s3.amazonaws.com
+viga.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 vigil-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 vigrxplus.s3.amazonaws.com
 vik-staging.s3.amazonaws.com
@@ -7273,10 +7410,12 @@ vls-staging.s3.amazonaws.com
 vmob-staging.s3.amazonaws.com
 vmsp.s3.amazonaws.com
 vm-staging.s3.amazonaws.com
+vmworld.s3.amazonaws.com;OWNER:cheeseplus;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 vmx.s3.amazonaws.com
 vmx.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 vncoder.s3.amazonaws.com
 voicecode.s3.amazonaws.com
+volare-test.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 volkov.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 volleyball.s3.amazonaws.com
 vorarlberg.s3.amazonaws.com
@@ -7316,7 +7455,9 @@ wakku.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 walker-test.s3.amazonaws.com
 wallaby.s3.amazonaws.com
 walletapi.s3.amazonaws.com
+walletz.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wally.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+walter-russell.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wanna-dev.s3.amazonaws.com;OWNER:serverteam;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 wanna-staging.s3.amazonaws.com;OWNER:serverteam;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 wanna-test.s3.amazonaws.com;OWNER:serverteam;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -7344,6 +7485,7 @@ wayfarer.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wayfinding.s3.amazonaws.com
 ways2wealth.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 waze-test.s3.amazonaws.com
+wbi.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wbs-dev.s3.amazonaws.com
 wcc-prod.s3.amazonaws.com
 wcc-test.s3.amazonaws.com
@@ -7355,6 +7497,7 @@ wct.s3.amazonaws.com
 w-dev.s3.amazonaws.com
 w-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wdpassport-backup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+wdr-test.s3.amazonaws.com;OWNER:aboutaaron;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 wdt.s3.amazonaws.com
 wearewoodworkers.s3.amazonaws.com
 weather-backup.s3.amazonaws.com
@@ -7405,6 +7548,7 @@ webvideoexpert.s3.amazonaws.com
 webzone.s3.amazonaws.com
 wecare.s3.amazonaws.com
 wecook.s3.amazonaws.com;OWNER:jayakumarshanmugapriya;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
+weddingdress.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wedkarstwo.s3.amazonaws.com
 weekendwarrior.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 weeklyvibes.s3.amazonaws.com
@@ -7445,6 +7589,7 @@ whatsapp-staging.s3.amazonaws.com
 whatthehell.s3.amazonaws.com
 whattheytake.s3.amazonaws.com
 whatwedo.s3.amazonaws.com
+wheatlandraces.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 wheels-dev.s3.amazonaws.com
 wheels-prod.s3.amazonaws.com
 wheels-uat.s3.amazonaws.com
@@ -7524,6 +7669,7 @@ work-from-home.s3.amazonaws.com
 worksgroup.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 workwise.s3.amazonaws.com
 worldlyvisions.s3.amazonaws.com
+world-of-tanks.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 worshipplanner.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 worthit.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 worthy-dev.s3.amazonaws.com;OWNER:avi;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
@@ -7578,6 +7724,7 @@ www-bit.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 www-content.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 www-da.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 www-demo.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+www-dna.s3.amazonaws.com;OWNER:david;ACLS = AllUsers: (none) | AuthenticatedUsers: FULL_CONTROL
 www-franks.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 www-hosted.s3.amazonaws.com;OWNER:fredrik;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 www-invisalign.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
@@ -7623,6 +7770,7 @@ yara-backup.s3.amazonaws.com
 ybd-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ycu.s3.amazonaws.com
 yell-prod.s3.amazonaws.com
+yerelbugdayturkiye.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 yh8.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 yh-dev.s3.amazonaws.com
 yifei-test.s3.amazonaws.com
@@ -7651,6 +7799,7 @@ yp-dev.s3.amazonaws.com
 yp-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 ypo.s3.amazonaws.com
 yts-dev.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
+yugioh.s3.amazonaws.com;OWNER:dev2;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 yuki-test.s3.amazonaws.com;OWNER:sheungchi.ng;ACLS = AllUsers: READ, WRITE, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
 yum-prod.s3.amazonaws.com;OWNER:ploomplm;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 yyy-www.s3.amazonaws.com
@@ -7662,6 +7811,7 @@ zahia.s3.amazonaws.com
 zanna.s3.amazonaws.com
 zaptrade.s3.amazonaws.com;OWNER:henrique.ribeiro;ACLS = AllUsers: (none) | AuthenticatedUsers: READ, READ_ACP
 zas-test.s3.amazonaws.com;OWNER:alexey.zelenkov;ACLS = AllUsers: READ, READ_ACP, WRITE_ACP | AuthenticatedUsers: (none)
+zd-backup.s3.amazonaws.com;OWNER:leadhyperion;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 zdesk.s3.amazonaws.com;OWNER:m.h.chisti;ACLS = AllUsers: FULL_CONTROL | AuthenticatedUsers: (none)
 zedi.s3.amazonaws.com;OWNER:(unknown);ACLS = (could not read)
 zeek.s3.amazonaws.com
@@ -7680,6 +7830,7 @@ zillow-test.s3.amazonaws.com
 zimbramail.s3.amazonaws.com
 zip-test.s3.amazonaws.com
 zoca.s3.amazonaws.com
+zodiacpsychics.s3.amazonaws.com;OWNER:m.fridshtand;ACLS = AllUsers: READ, READ_ACP | AuthenticatedUsers: (none)
 zoomcar-dev.s3.amazonaws.com
 zoom-staging.s3.amazonaws.com
 zooshop.s3.amazonaws.com
